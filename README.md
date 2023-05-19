@@ -8,11 +8,16 @@
 
 
 
-<a href="https://day0424.ai55.cc/?site=a0516" target="_blank" style="color: black">
-<img src="https://s2.loli.net/2023/05/16/VqzwF2blgpXC4Bo.png" alt="Ad" style="height: 80px !important;width: auto !important;" ></a>
+<a href="https://www.google-hub.com" target="_blank" style="color: black">
+<img src="https://www.google-hub.com/images/google-search.png" alt="Ad" style="height: 80px !important;width: auto !important;" >
 <br>
-<a href="https://day0424.ai55.cc/?site=a0516" target="_blank" style="color: black">
-👆 https://chat.wenwen-ai.com/ [广告]
+👆https://www.google-hub.com
+</a>
+<br>
+<a href="https://chatgptmirror.com?share=2Z3G17" target="_blank" style="color: black">
+ <img src="https://user-images.githubusercontent.com/32785823/236451773-b44557cd-f6a7-40e5-ae13-edc44ce90778.png" alt="Ad" style="height: 80px !important;width: auto !important;" >
+ <br>
+ 👆### 推荐镜像仿原生界面
 </a>
 
 
